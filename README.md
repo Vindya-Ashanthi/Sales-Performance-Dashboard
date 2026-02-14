@@ -31,21 +31,21 @@ Shows total sales and key performance indicators.
 ### 2️⃣ Sales by Region
 Displays regional performance comparison.
 
-![Sales by Region](Sales by Region.png)
+![Sales by Region](Sales_by_Region.png)
 
 ---
 
 ### 3️⃣ Sales by Year
 Shows yearly sales trends.
 
-![Year](Sales by Year.png)
+![Year](Sales_by_Year.png)
 
 ---
 
 ### 4️⃣ Sales by Products
 Highlights the best-selling products.
 
-![Products](Sales by Products.png)
+![Products](Sales_by_Products.png)
 
 ---
 
